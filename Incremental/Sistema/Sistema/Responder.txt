@@ -1,0 +1,6 @@
+﻿a)Sim, pois o cliente pode esclares os pontos rapidamente antes do projeto ser implemnetado totalemnte.
+b) Sim, pois o sistema não estará todo finalizado, caso o cliente queira fazer alguma alteração, o sistema pode ser adaptado para atender as necessidades do cliente.
+
+a) incremental
+b) incremental
+c) o mais importante é entregar o valor.

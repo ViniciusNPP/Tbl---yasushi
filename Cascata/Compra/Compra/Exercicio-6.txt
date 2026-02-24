@@ -1,0 +1,9 @@
+﻿a) Primeiro perguntei ao usuário o que ele queria que fizesse e o que seria mostrado para o usuário para entender o que ele queria que fosse feito.
+Depois analisei o pedido para identificar as entidades do sistema, atributos, relacionamentos e requisitos funcionais para que pudesse dar início a criação de
+um diagrama de classes simples para representar o sistema. Logo começei a implementar no programa as classes, métodos e relacionamentos identificados e ia testando
+cada parte para ver se estava funcionando sem nenhum problema.
+
+b) A fase era concluída quando o documento correspondente estava finalizado e aprovado.
+
+c) Seria necessário avaliar o quão impactante seria essa nova alteração no projeto, se o cliente realmente quiser aplicar essa alteração teria que passar por todas
+as fases, desde o começo, novamente e fazer as alterações conforme necessário e ter os documentos de cada fase aprovados novamente.
